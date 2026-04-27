@@ -102,3 +102,25 @@ your machine, your rules
 crazy concept i know
 
 ---
+
+## Name
+
+M.I.K.U = Multimodal Intelligent Knowledge Unit
+
+yes it’s named after her
+no she is not personally running your code (unfortunately)
+
+---
+
+## Current status
+
+it works
+surprisingly well actually
+
+but also:
+	•	sometimes saves dumb things
+	•	sometimes doesn’t save things you want
+	•	occasionally acts like it has 2 brain cells
+  • sometimes saves abbreviated things not understanding what they are
+
+we’re improving trust 👍
