@@ -118,9 +118,9 @@ it works
 surprisingly well actually
 
 but also:
-	•	sometimes saves dumb things
-	•	sometimes doesn’t save things you want
-	•	occasionally acts like it has 2 brain cells
-  • sometimes saves abbreviated things not understanding what they are
+- sometimes saves dumb things
+- sometimes doesn’t save things you want
+- occasionally acts like it has 2 brain cells
+- sometimes saves abbreviated things not understanding what they are
 
 we’re improving trust 👍
