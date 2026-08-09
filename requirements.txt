@@ -1,0 +1,7 @@
+# Runtime dependencies for main.py
+numpy>=1.26
+faster-whisper
+sounddevice
+soundfile
+chromadb
+sherpa-onnx
