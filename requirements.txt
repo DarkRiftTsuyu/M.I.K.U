@@ -1,7 +1,11 @@
-# Runtime dependencies for main.py
-numpy>=1.26
-faster-whisper
-sounddevice
+# Minimal runtime dependencies inferred from source imports.
+# For reproducible installs, replace this file with:
+#   python -m pip freeze > requirements.txt
+
+numpy
 soundfile
+sounddevice
 chromadb
+faster-whisper
 sherpa-onnx
+piper-tts
